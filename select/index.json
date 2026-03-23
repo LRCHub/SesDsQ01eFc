@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "#ラブコード",
+  "base_artist": "iLiFE!",
+  "createdAt": "2026-03-23T18:34:32.375977Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "#ラブコード",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/pl_01_ラブコード_iLiFE!.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "#ラブコード",
+      "artist": "iLiFE!",
+      "has_synced": false,
+      "path": "select/localdb_01_ラブコード_iLiFE!.txt",
+      "repo_name": "XDoX7FxqzZk"
+    }
+  ]
+}
